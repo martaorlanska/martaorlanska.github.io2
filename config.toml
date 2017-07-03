@@ -13,7 +13,7 @@
 # use grunt task `build` to synchronize assets
 
 baseurl = "https://martaorlanska.github.io"
-publishDir = "gh-pages"
+publishDir = "public"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Marta Orlanska Travel Blog"
