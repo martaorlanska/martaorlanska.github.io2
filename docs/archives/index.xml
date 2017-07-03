@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archives on Marta Orlanska Travel Blog</title>
+    <link>https://martaorlanska.github.io/archives/</link>
+    <description>Recent content in Archives on Marta Orlanska Travel Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://martaorlanska.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
